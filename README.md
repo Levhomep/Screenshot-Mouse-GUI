@@ -1,7 +1,7 @@
 ##############---- Screenshot-Mouse-GUI ----############
 
 
-pakages need : pyautogui , customtkinter , simply install with pip
+packages need : pyautogui , customtkinter , simply install with pip
 
 
 This App do:
