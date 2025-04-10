@@ -10,7 +10,7 @@ def piXpoS(_):
     p = pyautogui.position()  # Mouseposition
     try:
         c = pyautogui.pixel(p[0], p[1])  # Colour of Pixel
-        text = f"Position: {p}, Farbe: {c}"  # Text Collecting
+        text = f"Position: {p}, Colour: {c}"  # Text Collecting
         label_info.configure(text=text)  # refresh of Text Label
     except OSError:
         label_info.configure(text="Position out of Range!")
