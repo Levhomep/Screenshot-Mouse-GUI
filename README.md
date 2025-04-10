@@ -1,4 +1,4 @@
-#############################################################---- Screenshot-Mouse-GUI ----#########################################################
+#############---- Screenshot-Mouse-GUI ----############
 # pakages need : pyautogui , customtkinter , simply install with pip
 
 # This App can take Screenshots and show MousePosition with current Pixelcoulor (press "h" button your Keyboard)
