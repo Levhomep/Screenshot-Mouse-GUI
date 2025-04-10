@@ -35,7 +35,7 @@ button_screenshot = ctk.CTkButton(hauptfenster, text="Take Screenshot", width=20
 button_screenshot.pack(pady=10)
 
 # Beenden-Button
-button_exit = ctk.CTkButton(hauptfenster, text="Leave", width=200, height=40, command=hauptfenster.destroy)
+button_exit = ctk.CTkButton(hauptfenster, text="Close", width=200, height=40, command=hauptfenster.destroy)
 button_exit.pack(pady=10)
 
 # Key-Binding for 'h'
